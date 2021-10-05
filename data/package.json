@@ -1,0 +1,14 @@
+{
+  "name": "data-generator",
+  "version": "1.0.0",
+  "description": "Generates random patient data",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server ./data.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
