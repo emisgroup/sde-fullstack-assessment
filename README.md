@@ -35,6 +35,6 @@ Your MVP can use any of the following technologies along with any frameworks or 
 
 ## Submit The Solution
 
-Create a public Github repository and push your solution including any documentation you feel necessary. Commit often - we would rather see a history of trial and error than a single monolithic push. When you're finished, please send us the URL to the repository.
+Create a public GitHub repository and push your solution including any documentation you feel necessary. Commit often - we would rather see a history of trial and error than a single monolithic push. When you're finished, please send us the URL to the repository.
 
 We suggest you do not fork this repo, as your fork will be easily visible to other candidates.
